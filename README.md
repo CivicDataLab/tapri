@@ -1,6 +1,6 @@
 ## tools-at-CDL
 
-Curation of tools we use across Public Finance, Judiciary and Indic Languages (Samantar) sectors.
+Glossary of tools we build across Public Finance, Judiciary and Indic Languages (Samantar).
 
 ### Public Finance
 
