@@ -10,8 +10,6 @@ Glossary of tools we build across Public Finance, Judiciary and Indic Languages 
 
 ### Indic Languages a.k.a Samantar
 
-#### Machine Translation
-
 - [cheykit](https://github.com/CivicDataLab/cheykit) -> Custom Enitity Recognizer
 - [cheyyali](https://github.com/CivicDataLab/cheyyali) -> Open source text annotation tool.
 - [complang](https://github.com/CivicDataLab/complang) -> Analyse Language Complexity using linguistic features and topology of complex networks
