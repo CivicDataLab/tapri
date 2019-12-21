@@ -6,7 +6,9 @@ Glossary of tools we build across Public Finance, Judiciary and Indic Languages 
 
 
 ### Judiciary
-
+- [judiciary_experiments ](https://github.com/CivicDataLab/judiciary_experiments) -> Host to all experiments in the judiciary sector.
+- [POCSO_case_law_analysis](https://github.com/CivicDataLab/POCSO_case_law_analysis) -> Analysis of use of social media words in judgments of POCSO cases.
+- [Vayam ](https://github.com/CivicDataLab/Vayam) -> Interim analysis and docs for Vayam
 
 ### Indic Languages a.k.a Samantar
 
